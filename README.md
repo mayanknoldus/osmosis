@@ -32,3 +32,4 @@ As AMMs substantially increase the market accessibility for these instruments, a
 
 To solve this issue, Osmosis introduces the idea of an 'AMM as a serviced infrastructure'. Fairly often, adjustment of the value function and a few additional parameters are all that's needed to provide a highly-efficient, highly-accessible AMM for the majority of decentralized financial instruments. By providing the ability for the creator of the pool to simply define the bonding curve value function and reuse the majority of the key AMM infrastructure, the barrier to creating a tailor-made and efficient automated market maker can be reduced.
 
+
